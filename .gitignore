@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*~
+.netrwhist
+tags
+plugged/
+bundle/
