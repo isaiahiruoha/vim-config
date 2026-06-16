@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "editor.inlineSuggest.enabled": true,
+    "settingsSync.ignoredExtensions": [
+        "github.copilot"
+    ],
+    "phpserver.phpPath": "/opt/homebrew/bin/php",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "cmake.configureOnOpen": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "c": true,
+        "cpp": false
+    },
+    "files.autoSave": "afterDelay",
+    "cmake.showOptionsMovedNotification": false,
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "terminal.integrated.inheritEnv": false,
+    "python.autoComplete.extraPaths": [],
+    "mypy.dmypyExecutable": "/Users/isaiah/opt/anaconda3/envs/ELEC292/bin/mypy",
+    "python.analysis.extraPaths": [],
+    "editor.maxTokenizationLineLength": 100000,
+    "jupyter.askForKernelRestart": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "docker.dockerPath": "/usr/local/bin/docker",
+    "makefile.configureOnOpen": true,
+    "git.openRepositoryInParentFolders": "always",
+    "database-client.autoSync": true,
+    "containers.containerCommand": "/usr/local/bin/docker"
+}
